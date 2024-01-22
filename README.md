@@ -1,2 +1,2 @@
-# Multiplica-o-de-matrizes-PHP
+# Multiplicacao-de-matrizes-PHP
 Desafio Imply
